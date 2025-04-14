@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-
+## AUTOMATING THE ETL PROCESS
 This project fetches trending YouTube videos using the YouTube API, performs data preprocessing and transformation, and saves the cleaned data to a CSV file.
 
 ## Tools Used
